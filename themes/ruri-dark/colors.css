@@ -113,11 +113,11 @@ h1 {
 /* Orange button */
 .button_orange > a,
 .button_orange > ul {
-    border-color: #ff4301;
+    border-color: #CCCCFF;
 }
 .button_orange > a,
 .button_orange > ul > li > a {
-    color: #ff4301;
+    color: #CCCCFF;
     background: #1D1F21;
 }
 .button_orange > a:after {
@@ -126,7 +126,7 @@ h1 {
 .button_orange:hover > a,
 .button_orange > ul > li > a:hover {
     color: #ffffff;
-    background: #ff4301;
+    background: #CCCCFF;
 }
 .button_orange:hover > a,
 .button_orange:hover > ul {
