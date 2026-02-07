@@ -32,9 +32,8 @@ main {
     display: inline-block;
     min-width: 500px;
     font-size: 12px;
-    background-size: 220px auto;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: left center;
     border-width: 1px;
     border-style: solid;
     margin: 10vh 0 0 0;
